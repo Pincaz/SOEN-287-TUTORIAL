@@ -1,0 +1,9 @@
+.excercise-3_Lab {
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#header1 {color: blueviolet;}
+a:hover{color: greenyellow;}
+a:visited{olor: red;}
+p.steps{margin-left: 30px;}
+.steps{margin-left: 10px;}
